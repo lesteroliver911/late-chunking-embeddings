@@ -32,6 +32,12 @@ python main.py
 
 This script will perform traditional chunking, late chunking, and compare the similarities of embeddings with both methods.
 
+## Terminal Output Example
+
+Here is an example of the terminal output after running the script:
+
+![Terminal Output](https://github.com/lesteroliver911/late-chunking-embeddings/blob/main/image/output_latechunking.png)
+
 ## License
 
 MIT License
